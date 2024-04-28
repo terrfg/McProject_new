@@ -1,0 +1,23 @@
+{
+	"format_version": "1.8.0",
+	"animation_controllers": {
+		"controller.animation.jawgiant.general": {
+			"initial_state" : "move",
+			"states": {
+				"move": {
+					"parameters": [ "query.mod.is_moving" ],
+					"animations": [
+						{
+							"move": [
+								{
+									"0.0": 0.0,
+									"1.0": 1.0
+								}
+							]
+						}
+					]
+				}
+			}
+		}
+	}
+}

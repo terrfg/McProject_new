@@ -1,0 +1,30 @@
+{
+	"format_version": "1.8.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "netease:jawgiant",
+			"spawn_egg":{
+                "base_color":"#ccda0e",
+                "overlay_color":"#b1ce11"
+            },
+			"render_controllers": [ "controller.render.jawgiant" ],
+			"geometry": {
+				"default": "geometry.eju"
+			},
+			"textures": {
+				"JawGiant": "textures/entity/giant/JawGiant"
+			},
+			"materials": {
+				"JawGiant": "custom_entity"
+			},
+			"animations": {
+				"move": "animation.eju.move",
+				"gel": "animation.eju.general",
+				"look_at_target": "animation.eju.move"
+			},
+			"animation_controllers": [
+				{ "general": "controller.animation.jawgiant.general"}
+			]
+		}
+	}
+}

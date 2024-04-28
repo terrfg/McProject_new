@@ -1,0 +1,21 @@
+{
+	"format_version": "1.8.0",
+	"render_controllers": {
+		"controller.render.jawgiant": {
+			"geometry": "Geometry.default",
+			"materials": [ { "*": "Material.JawGiant" }],
+			"textures": ["Texture.JawGiant"]
+		},
+		"controller.render.squirrel_more": {
+			"geometry": "Geometry.default",
+			"materials": [ { "*": "Material.JawGiant" } ]
+		},
+		"controller.render.squirrel_multi": {
+			"geometry": "Geometry.default",
+			 "materials": [
+				{ "*": "Material.JawGiant" }
+			 ],
+			 "textures": ["Texture.JawGiant"]
+		}
+	}
+}

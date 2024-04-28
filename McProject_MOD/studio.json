@@ -1,0 +1,53 @@
+{
+    "Account": "qq544224724@163.com",
+    "AssertCacheDir": "E:\\MCStudioDownload\\EngineAssert",
+    "BlockNums": [
+        0,
+        0
+    ],
+    "BornPoint": [
+        0,
+        0,
+        0
+    ],
+    "CanPublishResourceComponent": true,
+    "CodeEnable": false,
+    "CreateNew": true,
+    "CreateVersion": "2.10.0.577810",
+    "DCWebUrl": "https://x19apigatewayexpr.nie.netease.com",
+    "EditAddOnPaths": [
+
+    ],
+    "EditLogFilePath": "E:\\MCStudioDownload\\work\\editor\\edit.log",
+    "EditMaterialPaths": [
+
+    ],
+    "EditName": "空白附加包(2)",
+    "EditType": 4,
+    "EditVersion": "2.10.0.577810",
+    "EditorResourcePackPath": "E:\\Program Files (x86)\\Netease\\MCStudio\\data\\inner_res",
+    "ElkUrl": "https://x19mclexpr.nie.netease.com/client-log",
+    "GameType": 1,
+    "Id": "09b9ac758eda4bdca0dfdae4ca85819d",
+    "IsMap": false,
+    "NewEditCount": 6,
+    "OldComponents": [
+
+    ],
+    "OldEditCount": 0,
+    "ResourceIds": [
+
+    ],
+    "SaveBackAddOnPath": "E:\\MCStudioDownload\\work\\qq544224724@163.com\\Cpp\\AddOn\\09b9ac758eda4bdca0dfdae4ca85819d",
+    "SaveBackMapPath": null,
+    "Seed": "",
+    "ServerName": "EXPR",
+    "ShowGpuDriverTips": false,
+    "ShowGuide": false,
+    "Source": "空白附加包",
+    "StudioPort": 10023,
+    "StudioTempPath": "E:\\MCStudioDownload\\temp\\editorTemp",
+    "UserId": "136039",
+    "UserName": "Nilo",
+    "WorldType": 1
+}
